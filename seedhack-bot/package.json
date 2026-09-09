@@ -1,0 +1,18 @@
+{
+  "name": "seedhack-bot",
+  "version": "1.0.0",
+  "description": "Minecraft bot для предсказания погоды на основе seedhack",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "worker": "node workers/gpu-worker.js"
+  },
+  "keywords": ["minecraft", "weather", "prediction", "bot"],
+  "author": "",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "mineflayer": "^4.20.0",
+    "prismarine-viewer": "^1.27.0"
+  }
+}

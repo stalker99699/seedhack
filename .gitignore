@@ -1,0 +1,27 @@
+```
+# Compiled and build artifacts
+*.class
+*.o
+*.obj
+*.out
+target/
+# Dependencies
+node_modules/
+# Logs and temp files
+*.log
+*.tmp
+# Environment
+.env
+.env.local
+*.env.*
+# Editors
+.vscode/
+.idea/
+# Maven build artifacts
+dependency-reduced-pom.xml
+original-seedhack-*.jar
+seedhack-*.jar
+surefire-reports/
+maven-archiver/
+maven-status/
+```
