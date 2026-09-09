@@ -555,17 +555,7 @@ mvn clean package
 
 ## 📄 Лицензия
 
-MIT License - используйте свободно, но указывайте авторство.
 
-```
-MIT License
-
-Copyright (c) 2026 seedhack
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
 
 ---
 
@@ -588,13 +578,6 @@ Pull requests приветствуются! Для крупных изменен
 Этот проект создан в образовательных целях. Использование на серверах может нарушать их правила. Автор не несёт ответственности за баны или другие последствия.
 
 **Используйте ответственно.**
-
----
-
-## 📞 Контакты
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/seedhack/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/seedhack/discussions)
 
 ---
 
